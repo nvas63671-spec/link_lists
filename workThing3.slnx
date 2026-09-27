@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="workThing3/workThing3.vcxproj" Id="005629a7-5eb6-46eb-a7c6-0bda487212f9" />
+</Solution>
